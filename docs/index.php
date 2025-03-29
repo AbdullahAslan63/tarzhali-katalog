@@ -11,9 +11,9 @@
     <h1 style="text-align: center;">Tarz Halı Concept Katalog Resimlerinin Depolanması Amjacıyla Açılmış Repositry</h1>
     <?php
 
-for ($i = 1; $i <= 40; $i++) {
-    echo '<img src="' . $i . '.webp" alt="Sayfa ' . $i . '">';
-
+    for ($i = 1; $i <= 40; $i++) {
+        echo '<img src="' . $i . '.webp" alt="Sayfa ' . $i . '">';
+    }
     ?>
 </body>
 
